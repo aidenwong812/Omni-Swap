@@ -11,8 +11,6 @@ With the help of OmniSwap:
 2. Aggregate different bridges such as **Stargate**, **Wormhole**, etc. Users have the best cross-chain experience, covering security, speed and fees.
 3. Aggregate the swap of different chains, users can swap different assets of the two chains with one click, such as **ETH** of **Ethereum** and **BNB** of **BSC**.
 
-# Supported
-
 ## Bridge
 
 - [x] **[Stargate](https://stargate.finance/)**: Based on the [LayerZero](https://layerzero.network/) cross -chain message protocol, a single currency pool cross-chain bridge.
